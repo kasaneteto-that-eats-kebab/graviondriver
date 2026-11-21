@@ -1,4 +1,4 @@
-# graviondriver (XJ68 Offline WebHID Configurator)
+# Gravion Raxon MK68HE web-driver (XJ68 Offline WebHID Configurator)
 
 Offline local server and mirrored web configurator for the XJ68 magnetic keyboard (`VID_5577&PID_A7EC`), archived from `raxon.graviontr.com` (originally hosted on `liulistudio.cn`).
 
